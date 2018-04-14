@@ -1,5 +1,5 @@
 # neural-style
-This repository contains the server-side code for my app that does Neural Style Transfer using deep CNNs, as mentioned in [this paper](https://arxiv.org/pdf/1508.06576.pdf) by Gatys et al., 2015.
+This repository contains the server-side code for my app that does Neural Style Transfer using deep CNNs, as mentioned in [this paper](https://arxiv.org/pdf/1508.06576.pdf) by Gatys et al., 2015. Android app repository of the project is [here](https://github.com/piyush-kgp/s3image).
 
 Deep learning framework used: [Tensorflow](https://www.tensorflow.org)
 
