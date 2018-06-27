@@ -25,7 +25,7 @@ def index():
 
 @app.route('/upload', methods=['POST'])
 def upload():
-    s3 = boto3.resource('s3', aws_access_key_id='AKIAJXB4JP3SDZT4YQ4A', aws_secret_access_key='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')
+    s3 = boto3.resource('s3', aws_access_key_id='XXXXXXXXXXXXXXXXX', aws_secret_access_key='XXXXXXXXXXXXXXXXXXX')
     url = request.form['myfile']
     print request
     print url
